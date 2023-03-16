@@ -1,0 +1,134 @@
+/* -----------------------------------------------------
+   created with https://www.codeandweb.com/texturepacker 
+   -----------------------------------------------------
+   $TexturePacker:SmartUpdate:0c44a15b8531dafeed79c84edf380b80:fa3f7482f89ad03afe4edcd385a3715d:a39dc6b7d0daade7bad44235df21d7e2$
+   -----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite.mq {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(pics-base-0-mq.png);}
+
+._10 {width:125px; height:128px; background-position: -444px -131px}
+._11 {width:145px; height:125px; background-position: -680px -1px}
+._12 {width:174px; height:125px; background-position: -504px -1px}
+._13 {width:156px; height:125px; background-position: -446px -261px}
+._14 {width:149px; height:125px; background-position: -571px -128px}
+._15 {width:125px; height:125px; background-position: -604px -255px}
+._2 {width:174px; height:141px; background-position: -1px -1px}
+._5 {width:125px; height:141px; background-position: -159px -144px}
+._6 {width:145px; height:128px; background-position: -299px -261px}
+._7 {width:174px; height:128px; background-position: -177px -1px}
+._9 {width:149px; height:128px; background-position: -353px -1px}
+.arrowDown {width:50px; height:50px; background-position: -1px -430px}
+.arrowLeft {width:50px; height:50px; background-position: -53px -430px}
+.arrowRight {width:50px; height:50px; background-position: -105px -430px}
+.arrowUp {width:50px; height:50px; background-position: -157px -430px}
+.audioOff {width:50px; height:50px; background-position: -209px -430px}
+.audioOn {width:50px; height:50px; background-position: -261px -430px}
+.avessy-status {width:149px; height:141px; background-position: -1px -287px}
+.barsHorizontal {width:50px; height:50px; background-position: -313px -391px}
+.barsVertical {width:50px; height:50px; background-position: -313px -443px}
+.button1 {width:50px; height:50px; background-position: -365px -391px}
+.button2 {width:50px; height:50px; background-position: -365px -443px}
+.button3 {width:50px; height:50px; background-position: -417px -391px}
+.buttonA {width:50px; height:50px; background-position: -417px -443px}
+.buttonB {width:50px; height:50px; background-position: -469px -388px}
+.buttonL {width:50px; height:50px; background-position: -469px -440px}
+.buttonL1 {width:50px; height:50px; background-position: -521px -388px}
+.buttonL2 {width:50px; height:50px; background-position: -521px -440px}
+.buttonR {width:50px; height:50px; background-position: -573px -388px}
+.buttonR1 {width:50px; height:50px; background-position: -573px -440px}
+.buttonR2 {width:50px; height:50px; background-position: -625px -382px}
+.buttonSelect {width:50px; height:50px; background-position: -625px -434px}
+.buttonStart {width:50px; height:50px; background-position: -677px -382px}
+.buttonX {width:50px; height:50px; background-position: -677px -434px}
+.buttonY {width:50px; height:50px; background-position: -729px -382px}
+.checkmark {width:50px; height:50px; background-position: -729px -434px}
+.circle-gray {width:156px; height:128px; background-position: -286px -131px}
+.contrast {width:50px; height:50px; background-position: -722px -128px}
+.cross {width:50px; height:50px; background-position: -722px -180px}
+.down {width:50px; height:50px; background-position: -731px -232px}
+.downLeft {width:50px; height:50px; background-position: -731px -284px}
+.downRight {width:50px; height:50px; background-position: -774px -128px}
+.exclamation {width:50px; height:50px; background-position: -774px -180px}
+.exit {width:50px; height:50px; background-position: -781px -336px}
+.exitLeft {width:50px; height:50px; background-position: -783px -232px}
+.exitRight {width:50px; height:50px; background-position: -783px -284px}
+.export {width:50px; height:50px; background-position: -826px -128px}
+.fastForward {width:50px; height:50px; background-position: -826px -180px}
+.gamepad {width:50px; height:50px; background-position: -781px -388px}
+.gamepad1 {width:50px; height:50px; background-position: -781px -440px}
+.gamepad2 {width:50px; height:50px; background-position: -827px -1px}
+.gamepad3 {width:50px; height:50px; background-position: -827px -53px}
+.gamepad4 {width:50px; height:50px; background-position: -833px -336px}
+.gear {width:50px; height:50px; background-position: -835px -232px}
+.home {width:50px; height:50px; background-position: -835px -284px}
+.import {width:50px; height:50px; background-position: -833px -388px}
+.information {width:50px; height:50px; background-position: -833px -440px}
+.joystick {width:50px; height:50px; background-position: -878px -105px}
+.joystickLeft {width:50px; height:50px; background-position: -878px -157px}
+.joystickRight {width:50px; height:50px; background-position: -879px -1px}
+.joystickUp {width:50px; height:50px; background-position: -879px -53px}
+.larger {width:50px; height:50px; background-position: -885px -336px}
+.leaderboardsComplex {width:50px; height:50px; background-position: -885px -388px}
+.leaderboardsSimple {width:50px; height:50px; background-position: -885px -440px}
+.left {width:50px; height:50px; background-position: -887px -209px}
+.locked {width:50px; height:50px; background-position: -887px -261px}
+.massiveMultiplayer {width:50px; height:50px; background-position: -930px -105px}
+.medal1 {width:50px; height:50px; background-position: -930px -157px}
+.medal2 {width:50px; height:50px; background-position: -931px -1px}
+.menuGrid {width:50px; height:50px; background-position: -931px -53px}
+.menuList {width:50px; height:50px; background-position: -937px -313px}
+.minus {width:50px; height:50px; background-position: -939px -209px}
+.mouse {width:50px; height:50px; background-position: -939px -261px}
+.movie {width:50px; height:50px; background-position: -982px -105px}
+.multiplayer {width:50px; height:50px; background-position: -982px -157px}
+.musicOff {width:50px; height:50px; background-position: -983px -1px}
+.musicOn {width:50px; height:50px; background-position: -983px -53px}
+.next {width:50px; height:50px; background-position: -937px -365px}
+.open {width:50px; height:50px; background-position: -937px -417px}
+.pause {width:50px; height:50px; background-position: -989px -313px}
+.phone {width:50px; height:50px; background-position: -991px -209px}
+.plus {width:50px; height:50px; background-position: -991px -261px}
+.power {width:50px; height:50px; background-position: -1034px -105px}
+.previous {width:50px; height:50px; background-position: -1034px -157px}
+.question {width:50px; height:50px; background-position: -1035px -1px}
+.return {width:50px; height:50px; background-position: -1035px -53px}
+.rewind {width:50px; height:50px; background-position: -989px -365px}
+.right {width:50px; height:50px; background-position: -989px -417px}
+.save {width:50px; height:50px; background-position: -1087px -1px}
+.scrollHorizontal {width:50px; height:50px; background-position: -1139px -1px}
+.scrollVertical {width:50px; height:50px; background-position: -1191px -1px}
+.share1 {width:50px; height:50px; background-position: -1087px -53px}
+.share2 {width:50px; height:50px; background-position: -1139px -53px}
+.shoppingBasket {width:50px; height:50px; background-position: -1191px -53px}
+.shoppingCart {width:50px; height:50px; background-position: -1086px -105px}
+.siganl1 {width:50px; height:50px; background-position: -1138px -105px}
+.signal2 {width:50px; height:50px; background-position: -1190px -105px}
+.signal3 {width:50px; height:50px; background-position: -1086px -157px}
+.singleplayer {width:50px; height:50px; background-position: -1138px -157px}
+.smaller {width:50px; height:50px; background-position: -1190px -157px}
+.star {width:50px; height:50px; background-position: -1041px -313px}
+.star-gold {width:145px; height:141px; background-position: -152px -287px}
+.star-gray {width:156px; height:141px; background-position: -1px -144px}
+.stop {width:50px; height:50px; background-position: -1043px -209px}
+.tablet {width:50px; height:50px; background-position: -1043px -261px}
+.target {width:50px; height:50px; background-position: -1041px -365px}
+.trashcan {width:50px; height:50px; background-position: -1041px -417px}
+.trashcanOpen {width:50px; height:50px; background-position: -1095px -209px}
+.trophy {width:50px; height:50px; background-position: -1147px -209px}
+.unlocked {width:50px; height:50px; background-position: -1095px -261px}
+.up {width:50px; height:50px; background-position: -1147px -261px}
+.upLeft {width:50px; height:50px; background-position: -1093px -313px}
+.upRight {width:50px; height:50px; background-position: -1145px -313px}
+.video {width:50px; height:50px; background-position: -1197px -313px}
+.warning {width:50px; height:50px; background-position: -1093px -365px}
+.wrench {width:50px; height:50px; background-position: -1093px -417px}
+.zoom {width:50px; height:50px; background-position: -1145px -365px}
+.zoomDefault {width:50px; height:50px; background-position: -1197px -365px}
+.zoomIn {width:50px; height:50px; background-position: -1145px -417px}
+.zoomOut {width:50px; height:50px; background-position: -1197px -417px}
